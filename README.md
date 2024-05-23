@@ -21,6 +21,10 @@ git clone https://github.com/likhithkp/go-email-verification-tool.git
 cd go-email-verification-tool
 ```
 
+## Run
+
+```go run main.go```
+
 ## Example input:
   example.com
   google.com
